@@ -1,4 +1,4 @@
-# SCRx SDK FPGA projects repository
+# SCRx SDK FPGA projects repository 
 
 ## Repository contents
 Folder | Description
